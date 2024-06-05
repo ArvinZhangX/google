@@ -52,15 +52,6 @@
 
 
 
-## Android手机APP下载地址
-
-
-## Windows、MacOS、Android、iOS客户端
-
-
-## 机场测速
-
-[DuyaoSS](https://www.duyaoss.com/)
 
 ## 免费机场（不保证都可用/多切换试试）
 
